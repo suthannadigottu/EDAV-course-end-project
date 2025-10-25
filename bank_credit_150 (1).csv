@@ -1,0 +1,151 @@
+year,state,sector,bank_type,credit_disbursed_crores,population_lakhs,gdp_crores
+2024,Bihar,Industry,Private,2.3,1093,3272.66
+2021,Tamil Nadu,Services,Public,5.58,766,11502.06
+2022,Punjab,Agriculture,Public,,318,4042.68
+2024,Karnataka,Personal Loans,Public,2.51,668,8838.27
+2020,West Bengal,Industry,Public,6.4,985,8450.03
+2022,Karnataka,Personal Loans,Public,2.98,667,8719.76
+2022,West Bengal,Personal Loans,Public,2.44,992,8050.16
+2024,Gujarat,Agriculture,Public,3.03,696,9475.04
+2019,Gujarat,Industry,Public,4.46,691,9458.39
+2020,Bihar,Services,Public,2.38,1091,3527.33
+2024,West Bengal,Industry,Public,4.93,996,7767.36
+2020,Maharashtra,Industry,Public,13.79,1242,25056.8
+2020,Gujarat,Services,Public,4.62,665,9374.55
+2022,West Bengal,Services,Private,3.77,1017,8178.63
+2021,Kerala,Services,Private,1.67,345,2751.84
+2020,Rajasthan,Industry,Public,2.3,809,4528.11
+2023,Karnataka,Agriculture,Public,2.6,671,9172.7
+2022,Karnataka,Personal Loans,Public,2.55,679,8875.04
+2019,Rajasthan,Agriculture,Cooperative,1.89,824,4666.46
+2021,Punjab,Personal Loans,Public,0.93,280,3709.32
+2023,Kerala,Personal Loans,Public,0.75,348,2651.51
+2023,Gujarat,Personal Loans,Public,3.19,670,8827.11
+2019,Karnataka,Personal Loans,Private,1.64,664,9320.18
+2021,Rajasthan,Agriculture,Public,1.68,824,5111.35
+2022,Rajasthan,Agriculture,Public,1.67,809,5088.71
+2018,Bihar,Services,Private,1.82,1091,3408.18
+2021,Uttar Pradesh,Industry,Public,9.24,2187,10697.38
+2019,Maharashtra,Industry,Private,17.02,1242,25446.6
+2023,Gujarat,Services,Private,3.76,687,8685.89
+2022,Kerala,Personal Loans,Private,1.07,358,3467.52
+2021,Kerala,Services,Cooperative,1.22,350,2561.02
+2018,Tamil Nadu,Industry,Public,7.45,770,11730.93
+2018,Punjab,Personal Loans,Public,0.83,301,3680.7
+2020,Maharashtra,Industry,Public,14.21,1249,25280.69
+2020,West Bengal,Industry,Private,6.03,1004,7606.47
+2024,Punjab,Agriculture,Private,1.16,287,3566.55
+2019,Gujarat,Industry,Public,4.21,682,9491.57
+2021,Gujarat,Industry,Public,5.13,681,8810.24
+2021,Karnataka,Agriculture,Public,3.01,676,9301.35
+2024,Kerala,Industry,Cooperative,2.07,335,3164.12
+2023,Karnataka,Industry,Private,4.86,655,9444.76
+2023,Maharashtra,Industry,Public,20.31,1228,24782.51
+2024,Punjab,Agriculture,Public,1.81,302,3511.5
+2023,Rajasthan,Services,Public,3.59,823,4961.75
+2020,Uttar Pradesh,Services,Private,5.06,2195,10635.0
+2021,West Bengal,Services,Public,4.96,982,8350.67
+2024,Punjab,Industry,Private,2.01,293,3594.35
+2021,Kerala,Agriculture,Public,1.26,334,3454.35
+2018,Punjab,Services,Private,1.82,309,3766.46
+2020,Punjab,Services,Private,1.54,310,4154.17
+2022,Punjab,Personal Loans,Public,1.15,283,3776.63
+2020,Bihar,Personal Loans,Cooperative,1.13,1111,3608.9
+2024,Karnataka,Services,Public,5.77,672,9205.88
+2022,Gujarat,Services,Private,6.01,699,9194.49
+2018,Maharashtra,Agriculture,Private,6.76,1235,24753.51
+2024,Punjab,Services,Public,2.02,286,3532.67
+2019,Punjab,Services,Private,2.53,315,3834.96
+2021,Kerala,Personal Loans,Public,0.78,353,2972.95
+2018,Gujarat,Personal Loans,Public,2.08,698,8849.11
+2021,Bihar,Personal Loans,Private,0.8,1092,3432.86
+2023,Rajasthan,Agriculture,Public,1.76,809,4969.59
+2019,Rajasthan,Industry,Private,2.88,801,5139.32
+2019,Rajasthan,Services,Public,3.28,820,5148.95
+2018,Karnataka,Services,Private,4.36,674,9391.12
+2019,Karnataka,Services,Private,5.45,678,9340.76
+2022,Kerala,Industry,Public,2.08,334,2737.14
+2019,West Bengal,Industry,Private,6.33,988,7736.25
+2021,Punjab,Services,Public,1.64,292,4003.43
+2021,Punjab,Industry,Private,2.06,308,4046.93
+2024,Gujarat,Services,Private,6.52,676,9078.54
+2021,West Bengal,Personal Loans,Private,2.02,1010,7845.78
+2024,Uttar Pradesh,Services,Public,5.83,2182,11361.88
+2021,Maharashtra,Industry,Public,12.61,1250,24929.18
+2022,Tamil Nadu,Services,Public,6.32,764,11835.91
+2024,Tamil Nadu,Agriculture,Cooperative,3.0,771,11727.0
+2020,Kerala,Agriculture,Cooperative,1.19,365,3413.62
+2023,Gujarat,Personal Loans,Public,2.79,673,9026.38
+2018,Tamil Nadu,Services,Private,7.44,750,12288.59
+2021,Punjab,Personal Loans,Private,1.06,307,3797.03
+2019,Punjab,Agriculture,Public,1.13,307,3773.55
+2021,Kerala,Personal Loans,Cooperative,0.91,346,2880.88
+2019,Tamil Nadu,Industry,Private,6.4,752,11843.49
+2023,Gujarat,Services,Cooperative,,684,9155.45
+2023,Bihar,Personal Loans,Private,0.8,1112,3618.13
+2023,Tamil Nadu,Industry,Cooperative,7.67,765,11541.58
+2019,Rajasthan,Personal Loans,Private,,823,5258.8
+2021,Gujarat,Agriculture,Public,2.19,687,8683.84
+2023,Kerala,Personal Loans,Cooperative,0.89,366,3191.72
+2022,Kerala,Services,Public,1.42,338,2887.65
+2024,Tamil Nadu,Personal Loans,Private,2.96,779,12421.93
+2019,Bihar,Agriculture,Public,,1082,3940.74
+2019,Maharashtra,Personal Loans,Private,6.67,1239,24876.26
+2021,Rajasthan,Services,Public,2.6,826,4897.64
+2019,Maharashtra,Services,Cooperative,13.78,1243,24569.49
+2019,Maharashtra,Services,Public,12.39,1243,25332.51
+2023,Rajasthan,Industry,Private,3.24,806,4898.11
+2021,Punjab,Personal Loans,Public,0.93,303,4427.05
+2023,Uttar Pradesh,Industry,Public,,2190,10562.54
+2024,Rajasthan,Industry,Private,3.33,805,4740.71
+2024,Karnataka,Agriculture,Public,3.94,642,8834.34
+2023,Maharashtra,Services,Public,17.15,1227,24866.68
+2024,Uttar Pradesh,Agriculture,Public,3.8,2205,11432.29
+2021,Maharashtra,Agriculture,Public,7.3,1235,24604.88
+2018,Rajasthan,Services,Public,1.99,806,5452.57
+2023,Karnataka,Services,Private,4.2,654,8503.02
+2022,Bihar,Industry,Private,2.17,1103,3167.48
+2022,Punjab,Agriculture,Public,1.52,302,4347.17
+2019,Maharashtra,Industry,Public,13.06,1234,24885.18
+2024,Kerala,Agriculture,Private,1.28,351,3067.93
+2022,Rajasthan,Personal Loans,Private,1.55,792,5321.52
+2019,Maharashtra,Agriculture,Public,8.13,1217,25277.35
+2018,Tamil Nadu,Services,Public,5.41,765,11984.47
+2021,Maharashtra,Agriculture,Public,7.34,1242,24772.85
+2021,Kerala,Agriculture,Public,0.78,340,3261.25
+2021,Bihar,Personal Loans,Public,0.97,1119,3043.24
+2022,Karnataka,Personal Loans,Private,2.63,650,9378.86
+2018,Uttar Pradesh,Personal Loans,Public,3.12,2181,10508.46
+2022,Bihar,Industry,Private,1.94,1105,3421.01
+2024,Karnataka,Industry,Public,5.39,640,9284.77
+2022,Uttar Pradesh,Services,Public,6.09,2182,10701.28
+2018,Uttar Pradesh,Industry,Public,4.87,2181,10552.87
+2018,Maharashtra,Agriculture,Public,5.26,1218,25430.7
+2024,Bihar,Services,Private,1.58,1084,3965.73
+2018,Maharashtra,Agriculture,Private,9.47,1221,25236.98
+2018,Gujarat,Personal Loans,Private,1.64,688,8580.07
+2021,Rajasthan,Services,Private,3.26,826,4692.82
+2024,Punjab,Personal Loans,Public,1.24,297,3933.03
+2020,Bihar,Industry,Public,2.18,1117,3715.2
+2020,West Bengal,Industry,Private,4.65,981,7683.81
+2018,Kerala,Personal Loans,Private,0.58,335,3427.38
+2020,West Bengal,Services,Private,3.39,1008,7554.08
+2020,Karnataka,Services,Private,6.19,672,8940.28
+2018,Kerala,Services,Public,1.23,331,2822.65
+2020,Kerala,Personal Loans,Public,0.95,360,2794.86
+2022,Karnataka,Industry,Private,6.06,647,9147.72
+2019,Karnataka,Services,Private,5.03,675,9490.97
+2024,Kerala,Services,Cooperative,1.6,335,2629.99
+2019,West Bengal,Industry,Cooperative,3.92,992,8233.19
+2018,Maharashtra,Services,Public,15.29,1221,24899.15
+2021,Karnataka,Personal Loans,Private,,667,9153.1
+2024,Punjab,Agriculture,Public,1.08,320,3537.97
+2018,West Bengal,Agriculture,Public,1.92,1015,7692.56
+2021,Tamil Nadu,Personal Loans,Public,,760,11616.94
+2019,Rajasthan,Services,Public,3.02,815,4632.24
+2018,Gujarat,Industry,Public,6.76,661,8580.7
+2024,Maharashtra,Industry,Cooperative,18.62,1233,25175.26
+2024,Karnataka,Industry,Cooperative,5.85,661,8690.97
+2023,Maharashtra,Services,Public,18.35,1229,25028.53
+2022,Uttar Pradesh,Agriculture,Cooperative,3.7,2180,10517.59
+2020,West Bengal,Industry,Private,4.63,1009,8096.76
